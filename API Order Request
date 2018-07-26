@@ -1,0 +1,7 @@
+GET https://api.commerce.coinbase.com/charges/:charge_code|:739BAG43
+
+curl https://api.commerce.coinbase.com/charges/739BAG43 \
+     -H "X-CC-Api-Key: <0d72f984-f95a-4b61-8980-8a6b27499ddd>" \
+     -H "X-CC-Version: 2018-03-22"
+     
+     
